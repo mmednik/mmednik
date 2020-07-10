@@ -1,6 +1,6 @@
 ### Martín Alejandro Mednik
 
-* Co fundador de [TOBS](https://tobs.com.ar)
+* Cofundador de [TOBS](https://tobs.com.ar)
 * Desarrollador full stack
 * Actualmente aprendiendo data science
 * Mail personal: [mmednik@gmail.com](mailto:mmednik@gmail.com)
